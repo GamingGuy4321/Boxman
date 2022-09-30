@@ -992,3 +992,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.30-18.02.56:899][ 35]AssetCheck: New page: Asset Save: multiple assets
 [2022.09.30-18.02.56:899][ 35]LogContentValidation: Display: Validating World /Game/1Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2022.09.30-18.02.56:899][ 35]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/1Game/Maps/grass1_LayerInfo.grass1_LayerInfo
+[2022.09.30-18.03.33:768][181]Cmd: TRANSACTION UNDO
+[2022.09.30-18.03.33:768][181]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.09.30-18.04.45:167][754]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0774043B2947419A2D9511B18A79D60B2ABDFBA9), compiling. 
+[2022.09.30-18.04.45:191][755]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:193][755]LogShaderCompilers: Display: Worker (1/29): shaders left to compile 2
+[2022.09.30-18.04.45:193][755]LogShaderCompilers: Display: Worker (2/29): shaders left to compile 1
+[2022.09.30-18.04.45:193][755]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:195][755]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:204][755]LogShaderCompilers: Display: Worker (3/29): shaders left to compile 4
+[2022.09.30-18.04.45:204][755]LogShaderCompilers: Display: Worker (4/29): shaders left to compile 3
+[2022.09.30-18.04.45:204][755]LogShaderCompilers: Display: Worker (5/29): shaders left to compile 2
+[2022.09.30-18.04.45:204][755]LogShaderCompilers: Display: Worker (6/29): shaders left to compile 1
+[2022.09.30-18.04.45:204][755]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:241][755]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 77E61AD49DF082DCC8D3FA33F92FDCCB941B807F), compiling. 
+[2022.09.30-18.04.45:267][756]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:267][756]LogShaderCompilers: Display: Worker (7/29): shaders left to compile 2
+[2022.09.30-18.04.45:267][756]LogShaderCompilers: Display: Worker (8/29): shaders left to compile 1
+[2022.09.30-18.04.45:267][756]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:268][756]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:274][756]LogShaderCompilers: Display: Worker (9/29): shaders left to compile 4
+[2022.09.30-18.04.45:274][756]LogShaderCompilers: Display: Worker (10/29): shaders left to compile 3
+[2022.09.30-18.04.45:274][756]LogShaderCompilers: Display: Worker (11/29): shaders left to compile 2
+[2022.09.30-18.04.45:274][756]LogShaderCompilers: Display: Worker (12/29): shaders left to compile 1
+[2022.09.30-18.04.45:274][756]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:333][756]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0084B9C13C4296497893BB28C86D58477E4E33D8), compiling. 
+[2022.09.30-18.04.45:355][757]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:355][757]LogShaderCompilers: Display: Worker (13/29): shaders left to compile 2
+[2022.09.30-18.04.45:355][757]LogShaderCompilers: Display: Worker (14/29): shaders left to compile 1
+[2022.09.30-18.04.45:355][757]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:358][757]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:369][757]LogShaderCompilers: Display: Worker (15/29): shaders left to compile 4
+[2022.09.30-18.04.45:369][757]LogShaderCompilers: Display: Worker (16/29): shaders left to compile 3
+[2022.09.30-18.04.45:369][757]LogShaderCompilers: Display: Worker (17/29): shaders left to compile 2
+[2022.09.30-18.04.45:369][757]LogShaderCompilers: Display: Worker (18/29): shaders left to compile 1
+[2022.09.30-18.04.45:369][757]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:431][757]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1361CB902ECC7BB2797D5E9F4F757FDC24C3F736), compiling. 
+[2022.09.30-18.04.45:460][759]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:460][759]LogShaderCompilers: Display: Worker (19/29): shaders left to compile 2
+[2022.09.30-18.04.45:460][759]LogShaderCompilers: Display: Worker (20/29): shaders left to compile 1
+[2022.09.30-18.04.45:460][759]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.09.30-18.04.45:460][759]LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:470][759]LogShaderCompilers: Display: Worker (21/29): shaders left to compile 4
+[2022.09.30-18.04.45:470][759]LogShaderCompilers: Display: Worker (22/29): shaders left to compile 3
+[2022.09.30-18.04.45:470][759]LogShaderCompilers: Display: Worker (23/29): shaders left to compile 2
+[2022.09.30-18.04.45:470][759]LogShaderCompilers: Display: Worker (24/29): shaders left to compile 1
+[2022.09.30-18.04.45:470][759]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.09.30-18.04.45:992][771]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.30-18.04.45:993][771]LogShaderCompilers: Display: Total job queries 24, among them cache hits 0 (0.00%)
+[2022.09.30-18.04.45:993][771]LogShaderCompilers: Display: Tracking 3 distinct input hashes that result in 3 distinct outputs (100.00%)
+[2022.09.30-18.04.45:993][771]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1228.80 MB (1.20 GB) budget. Usage: 0.00%
+[2022.09.30-18.04.45:993][771]LogShaderCompilers: Display: ================================================
+[2022.09.30-18.04.54:928][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.30-18.04.54:949][405]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.30-18.04.54:957][405]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2022.09.30-18.04.54:959][405]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2022.09.30-18.04.54:960][405]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2022.09.30-18.04.54:960][405]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2022.09.30-18.04.54:961][405]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2022.09.30-18.04.54:961][405]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 64X64)
+[2022.09.30-18.04.54:962][405]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 64X64)
+[2022.09.30-18.04.54:962][405]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 64X64)
+[2022.09.30-18.04.55:044][405]LogSavePackage: Moving '../../../../../../Users/Nathan M/Documents/Unreal Projects/Boxman/BoxmanUnreal/Saved/ThirdPersonExampleMap5AD9D1AE44AD7E8A04FB1F8798DAD98D.tmp' to '../../../../../../Users/Nathan M/Documents/Unreal Projects/Boxman/BoxmanUnreal/Content/1Game/Maps/ThirdPersonExampleMap.umap'
+[2022.09.30-18.04.55:051][405]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.107
+[2022.09.30-18.04.55:059][405]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2022.09.30-18.04.55:059][405]LogContentValidation: Display: Validating World /Game/1Game/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
